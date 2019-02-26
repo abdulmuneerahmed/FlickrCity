@@ -1,2 +1,2 @@
 #### FlickrCity
-Getting the images in the city using Flickr API
+Getting the images from the city using Flickr API
